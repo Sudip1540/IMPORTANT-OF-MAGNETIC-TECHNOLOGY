@@ -1,4 +1,4 @@
-# Magnetic_Field_Study
+#git-setup
   Affecting Factors
   How to apply in daily life?
 Repositories - private
