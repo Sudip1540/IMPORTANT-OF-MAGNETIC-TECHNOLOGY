@@ -1,4 +1,4 @@
-# IMPORTANT-OF-MAGNETIC-TECHNOLOGY
+# Magnetic_Field_Study
   Affecting Factors
   How to apply in daily life?
 Repositories - private
